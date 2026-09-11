@@ -1,0 +1,23 @@
+# IPD Bots
+## For Hackclub Defector YSWS
+## Bots
+- [AcyclicTitForTat](https://defector.hackclub.com/bot/ogmib1h7uetlvxrjdyl5)
+- [AlwaysCooperate](https://defector.hackclub.com/bot/cfkm48npy00ne5vsim49)
+- [AlwaysDefect](https://defector.hackclub.com/bot/fyn9xvqlfj4p0q9vq3vs)
+- [GenerousTitForTat](https://defector.hackclub.com/bot/9tpvne1fl5nvxefxqhgf)
+- [GradualPavlov](https://defector.hackclub.com/bot/7chhi1l1ytggxpw3ghfy)
+- [GradualTitForTat](https://defector.hackclub.com/bot/u1nj4zku5yd79weyzs1g)
+- [OmegaTitForTaT](https://defector.hackclub.com/bot/sxq6b3juxrnr6rw8yamc)
+- [Pavlov](https://defector.hackclub.com/bot/fd4cc349sx19uhqyjpca)
+- [Prober](https://defector.hackclub.com/bot/a7upy9zen0jwku8ojjtu)
+- [Random](https://defector.hackclub.com/bot/ffenby4l8fk3o2mgqs6m)
+- [Striker](https://defector.hackclub.com/bot/dimh5ckv3atqt99bxo2f)
+- [SuddenTrigger](https://defector.hackclub.com/bot/eml8pc4vhs02vlhgclyq)
+- [SuspiciousStriker](https://defector.hackclub.com/bot/mpyrmtgo25dyb7gvhtd4)
+- [SuspiciousTitForTat](https://defector.hackclub.com/bot/6hj81q4t0skeljmqfzxm)
+- [TitForTat](https://defector.hackclub.com/bot/to8qt0ez5qfu1233cphw)
+- [TitForTwoTats](https://defector.hackclub.com/bot/ccev6imr0cuv9coshlt3)
+- [TolerantStriker](https://defector.hackclub.com/bot/ep6t67gnne2zptuf61r8)
+- [Trigger](https://defector.hackclub.com/bot/p1kn4ca53olo3vaqnrx3)
+- [UltraTitForTat](https://defector.hackclub.com/bot/p5lhhthb08fecp52yf09)
+- [ZDExtortion](https://defector.hackclub.com/bot/f1k2skci9sugfw9d9yc7)
