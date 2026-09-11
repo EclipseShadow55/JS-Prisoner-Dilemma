@@ -1,5 +1,5 @@
-/* Pavlov
-Plays AlwaysCooperate/AlwaysDefect until the opponent plays something different, then switches to the other
+/* Pavlov.
+Plays AlwaysCooperate/AlwaysDefect until the opponent plays something different, then switches to the other.
 */
 
 export default function bot({ history }) {

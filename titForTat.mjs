@@ -1,6 +1,6 @@
-/* TitForTat
-Cooperates on the first round
-After, plays opponent's last move
+/* TitForTat.
+Cooperates on the first round.
+After, plays opponent's last move.
 */
 
 export default function bot({ history }) {

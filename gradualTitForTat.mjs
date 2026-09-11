@@ -1,9 +1,9 @@
-/* GradualTitForTat
-Builds on TitForTat
-Maintains a betrayal counter, increases it whenever the opponent betrays*
-When an opponent betrays*, defects however many times the opponent has betrayed
-Apologizes with two unconditional cooperations
-[*] Betrayals are defects when a cooperation is expected. Doesn't count defects during retaliation or apology rounds as betrayals
+/* GradualTitForTat.
+Builds on TitForTat.
+Maintains a betrayal counter, increases it whenever the opponent betrays*.
+When an opponent betrays*, defects however many times the opponent has betrayed.
+Apologizes with two unconditional cooperations.
+[*] Betrayals are defects when a cooperation is expected. Doesn't count defects during retaliation or apology rounds as betrayals.
 */
 
 export default function bot({ history, memory }) {

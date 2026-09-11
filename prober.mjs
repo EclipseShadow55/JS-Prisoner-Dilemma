@@ -1,6 +1,6 @@
-/** Prober
-Plays a probe sequence to see if the opponent will respond to defections
-If not, plays AlwaysDefect, otherwise plays standard TitForTat
+/** Prober.
+Plays a probe sequence to see if the opponent will respond to defections.
+If not, plays AlwaysDefect, otherwise plays standard TitForTat.
 */
 
 export default function bot({ history, memory }) {

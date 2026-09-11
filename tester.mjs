@@ -19,6 +19,7 @@ import GRTFT, {botName as GRTFTName} from './gradualTitForTat.mjs';
 import GRPAV, {botName as GRPAVName} from './gradualPavlov.mjs';
 import ZDE, {botName as ZDEName} from './ZDExtortion.mjs';
 import OTFT, {botName as OTFTName} from './omegaTitForTat.mjs';
+import UTFT, {botName as UTFTName} from './ultraTitForTat.mjs';
 
 
 function match(bot1, bot2, rounds=500, scoring={DD: [1, 1], CD: [0, 3], DC: [3, 0], CC: [2, 2]}) {
@@ -101,8 +102,8 @@ function tournament(bots, names) {
 
 
 let [board, results] = tournament(
-    [AC, AD, TFT, STFT, ATFT, TR, STR, ST, TS, SS, RAND, TFTT, GTFT, PAV, PRB, GRTFT, GRPAV, ZDE, OTFT],
-    [ACName, ADName, TFTName, STFTName, ATFTName, TRName, STRName, STName, TSName, SSName, RANDName, TFTTName, GTFTName, PAVName, PRBName, GRTFTName, GRPAVName, ZDEName, OTFTName]
+    [AC, AD, TFT, STFT, ATFT, TR, STR, ST, TS, SS, RAND, TFTT, GTFT, PAV, PRB, GRTFT, GRPAV, ZDE, OTFT, UTFT],
+    [ACName, ADName, TFTName, STFTName, ATFTName, TRName, STRName, STName, TSName, SSName, RANDName, TFTTName, GTFTName, PAVName, PRBName, GRTFTName, GRPAVName, ZDEName, OTFTName, UTFTName]
 );
 
 for (let i = 0; i < board.length; i++) {

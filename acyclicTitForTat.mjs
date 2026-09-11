@@ -1,6 +1,6 @@
-/* AcyclicTitForTat
-Builds on TitForTat
-If Opponent and Self are unaligned, can randomly choose to use opposite move than opponent
+/* AcyclicTitForTat.
+Builds on TitForTat.
+If Opponent and Self are unaligned, can randomly choose to use opposite move than opponent.
 */
 
 const ATTEMPT_CORRECT = 0.8

@@ -1,5 +1,5 @@
-/* AlwaysDefect
-Defects unconditionally
+/* AlwaysDefect.
+Defects unconditionally.
 */
 
 export default function bot() {

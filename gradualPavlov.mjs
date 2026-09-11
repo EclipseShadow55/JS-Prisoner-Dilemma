@@ -1,6 +1,6 @@
-/* GradualPavlov
-Builds on Pavlov
-Maintains a chance to cooperate, decreases it if lost last round, increases it if it won
+/* GradualPavlov.
+Builds on Pavlov.
+Maintains a chance to cooperate, decreases it if lost last round, increases it if it won.
 */
 
 const CORRECT_FACTOR = 5

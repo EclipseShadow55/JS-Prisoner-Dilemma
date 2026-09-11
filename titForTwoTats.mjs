@@ -1,6 +1,6 @@
-/* TitForTwoTats
-Builds on TitForTat
-Only retaliates after two consecutive defections
+/* TitForTwoTats.
+Builds on TitForTat.
+Only retaliates after two consecutive defections.
 */
 
 export default function bot({ history }) {

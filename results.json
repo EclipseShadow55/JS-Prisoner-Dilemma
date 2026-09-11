@@ -37,8 +37,8 @@
             "other": 2.002
         },
         "Random": {
-            "self": 1.02,
-            "other": 2.49
+            "self": 1.024,
+            "other": 2.488
         },
         "TitForTwoTats": {
             "self": 2,
@@ -65,16 +65,20 @@
             "other": 2
         },
         "ZDExtortion": {
-            "self": 1.624,
-            "other": 2.188
+            "self": 1.576,
+            "other": 2.212
         },
         "OmegaTitForTat": {
             "self": 2,
             "other": 2
         },
-        "self_total": 1.4031578947368422,
-        "opp_total": 2.1405263157894736,
-        "ratio": 0.6555200393410376
+        "UltraTitForTat": {
+            "self": 0.076,
+            "other": 2.962
+        },
+        "self_total": 1.3346000000000002,
+        "opp_total": 2.1827,
+        "ratio": 0.6114445411646127
     },
     "AlwaysDefect": {
         "AlwaysCooperate": {
@@ -114,8 +118,8 @@
             "other": 1
         },
         "Random": {
-            "self": 1.972,
-            "other": 0.514
+            "self": 2.016,
+            "other": 0.492
         },
         "TitForTwoTats": {
             "self": 1.008,
@@ -149,9 +153,13 @@
             "self": 1.004,
             "other": 0.998
         },
-        "self_total": 1.348842105263158,
-        "opp_total": 0.7466315789473683,
-        "ratio": 1.806569857606091
+        "UltraTitForTat": {
+            "self": 1.004,
+            "other": 0.998
+        },
+        "self_total": 1.3338000000000003,
+        "opp_total": 0.7580999999999999,
+        "ratio": 1.7593984962406022
     },
     "TitForTat": {
         "AlwaysCooperate": {
@@ -191,8 +199,8 @@
             "other": 1.012
         },
         "Random": {
-            "self": 1.502,
-            "other": 1.508
+            "self": 1.496,
+            "other": 1.502
         },
         "TitForTwoTats": {
             "self": 2,
@@ -219,16 +227,20 @@
             "other": 2
         },
         "ZDExtortion": {
-            "self": 1.016,
-            "other": 1.022
+            "self": 1.024,
+            "other": 1.03
         },
         "OmegaTitForTat": {
             "self": 2,
             "other": 2
         },
-        "self_total": 1.5538947368421052,
-        "opp_total": 1.5561052631578947,
-        "ratio": 0.9985794493675169
+        "UltraTitForTat": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "self_total": 1.5762000000000003,
+        "opp_total": 1.5783,
+        "ratio": 0.9986694544763354
     },
     "suspiciousTitForTat": {
         "AlwaysCooperate": {
@@ -248,12 +260,12 @@
             "other": 1.496
         },
         "Trigger": {
-            "self": 1.5,
-            "other": 1.5
+            "self": 1.002,
+            "other": 1.002
         },
         "SuddenTrigger": {
-            "self": 1.072,
-            "other": 1.072
+            "self": 1.028,
+            "other": 1.028
         },
         "Striker": {
             "self": 1.008,
@@ -268,16 +280,16 @@
             "other": 1
         },
         "Random": {
-            "self": 1.478,
-            "other": 1.478
+            "self": 1.508,
+            "other": 1.508
         },
         "TitForTwoTats": {
             "self": 2.002,
             "other": 1.996
         },
         "GenerousTitForTat": {
-            "self": 1.984,
-            "other": 1.978
+            "self": 2,
+            "other": 1.994
         },
         "Pavlov": {
             "self": 1.002,
@@ -296,16 +308,20 @@
             "other": 1.996
         },
         "ZDExtortion": {
-            "self": 1.016,
-            "other": 1.016
+            "self": 1.012,
+            "other": 1.012
         },
         "OmegaTitForTat": {
             "self": 1.998,
             "other": 1.992
         },
-        "self_total": 1.4249473684210523,
-        "opp_total": 1.422421052631579,
-        "ratio": 1.0017760674905645
+        "UltraTitForTat": {
+            "self": 1.996,
+            "other": 1.99
+        },
+        "self_total": 1.4284999999999997,
+        "opp_total": 1.4258000000000002,
+        "ratio": 1.00189367372703
     },
     "AcyclicTitForTat": {
         "AlwaysCooperate": {
@@ -325,12 +341,12 @@
             "other": 1.502
         },
         "Trigger": {
-            "self": 1.504,
-            "other": 1.498
+            "self": 0.016,
+            "other": 2.986
         },
         "SuddenTrigger": {
-            "self": 0.028,
-            "other": 2.974
+            "self": 0.064,
+            "other": 2.938
         },
         "Striker": {
             "self": 0.028,
@@ -345,16 +361,16 @@
             "other": 2.978
         },
         "Random": {
-            "self": 1.592,
-            "other": 1.412
+            "self": 1.476,
+            "other": 1.524
         },
         "TitForTwoTats": {
             "self": 1.804,
             "other": 1.198
         },
         "GenerousTitForTat": {
-            "self": 1.648,
-            "other": 1.354
+            "self": 1.66,
+            "other": 1.342
         },
         "Pavlov": {
             "self": 0.004,
@@ -373,16 +389,20 @@
             "other": 0.008
         },
         "ZDExtortion": {
-            "self": 1.382,
-            "other": 1.622
+            "self": 1.33,
+            "other": 1.672
         },
         "OmegaTitForTat": {
             "self": 0.052,
             "other": 2.95
         },
-        "self_total": 0.9197894736842105,
-        "opp_total": 1.9240000000000002,
-        "ratio": 0.4780610570084253
+        "UltraTitForTat": {
+            "self": 0.052,
+            "other": 2.95
+        },
+        "self_total": 0.7959999999999999,
+        "opp_total": 2.0554000000000006,
+        "ratio": 0.38727255035516184
     },
     "Trigger": {
         "AlwaysCooperate": {
@@ -398,14 +418,95 @@
             "other": 2
         },
         "suspiciousTitForTat": {
-            "self": 1.5,
-            "other": 1.5
+            "self": 1.002,
+            "other": 1.002
         },
         "AcyclicTitForTat": {
-            "self": 1.498,
-            "other": 1.504
+            "self": 2.986,
+            "other": 0.016
         },
         "SuddenTrigger": {
+            "self": 2,
+            "other": 2
+        },
+        "Striker": {
+            "self": 2,
+            "other": 2
+        },
+        "TolerantStriker": {
+            "self": 2,
+            "other": 2
+        },
+        "SuspiciousStriker": {
+            "self": 1.002,
+            "other": 1.002
+        },
+        "Random": {
+            "self": 2.02,
+            "other": 0.496
+        },
+        "TitForTwoTats": {
+            "self": 2,
+            "other": 2
+        },
+        "GenerousTitForTat": {
+            "self": 2,
+            "other": 2
+        },
+        "Pavlov": {
+            "self": 1,
+            "other": 1.006
+        },
+        "Prober": {
+            "self": 1.008,
+            "other": 1.002
+        },
+        "GradualTitForTat": {
+            "self": 2,
+            "other": 2
+        },
+        "GradualPavlov": {
+            "self": 2,
+            "other": 2
+        },
+        "ZDExtortion": {
+            "self": 1.032,
+            "other": 1.032
+        },
+        "OmegaTitForTat": {
+            "self": 2,
+            "other": 2
+        },
+        "UltraTitForTat": {
+            "self": 1.036,
+            "other": 1.024
+        },
+        "self_total": 1.6042,
+        "opp_total": 1.3792,
+        "ratio": 1.1631380510440836
+    },
+    "SuddenTrigger": {
+        "AlwaysCooperate": {
+            "self": 2,
+            "other": 2
+        },
+        "AlwaysDefect": {
+            "self": 0.998,
+            "other": 1.004
+        },
+        "TitForTat": {
+            "self": 2,
+            "other": 2
+        },
+        "suspiciousTitForTat": {
+            "self": 1.028,
+            "other": 1.028
+        },
+        "AcyclicTitForTat": {
+            "self": 2.938,
+            "other": 0.064
+        },
+        "Trigger": {
             "self": 2,
             "other": 2
         },
@@ -422,8 +523,8 @@
             "other": 1.012
         },
         "Random": {
-            "self": 1.506,
-            "other": 1.512
+            "self": 1.962,
+            "other": 0.54
         },
         "TitForTwoTats": {
             "self": 2,
@@ -450,93 +551,20 @@
             "other": 2
         },
         "ZDExtortion": {
-            "self": 1.002,
-            "other": 1.008
+            "self": 1.042,
+            "other": 1.048
         },
         "OmegaTitForTat": {
             "self": 2,
             "other": 2
         },
-        "self_total": 1.5533684210526315,
-        "opp_total": 1.5555789473684212,
-        "ratio": 0.9985789687373122
-    },
-    "SuddenTrigger": {
-        "AlwaysCooperate": {
-            "self": 2,
-            "other": 2
+        "UltraTitForTat": {
+            "self": 1.998,
+            "other": 1.998
         },
-        "AlwaysDefect": {
-            "self": 0.998,
-            "other": 1.004
-        },
-        "TitForTat": {
-            "self": 2,
-            "other": 2
-        },
-        "suspiciousTitForTat": {
-            "self": 1.072,
-            "other": 1.072
-        },
-        "AcyclicTitForTat": {
-            "self": 2.974,
-            "other": 0.028
-        },
-        "Trigger": {
-            "self": 2,
-            "other": 2
-        },
-        "Striker": {
-            "self": 2,
-            "other": 2
-        },
-        "TolerantStriker": {
-            "self": 2,
-            "other": 2
-        },
-        "SuspiciousStriker": {
-            "self": 1.004,
-            "other": 1.004
-        },
-        "Random": {
-            "self": 1.926,
-            "other": 0.576
-        },
-        "TitForTwoTats": {
-            "self": 2,
-            "other": 2
-        },
-        "GenerousTitForTat": {
-            "self": 2,
-            "other": 2
-        },
-        "Pavlov": {
-            "self": 1,
-            "other": 1.006
-        },
-        "Prober": {
-            "self": 1.004,
-            "other": 1.01
-        },
-        "GradualTitForTat": {
-            "self": 2,
-            "other": 2
-        },
-        "GradualPavlov": {
-            "self": 2,
-            "other": 2
-        },
-        "ZDExtortion": {
-            "self": 1.008,
-            "other": 1.014
-        },
-        "OmegaTitForTat": {
-            "self": 2,
-            "other": 2
-        },
-        "self_total": 1.6308421052631579,
-        "opp_total": 1.406,
-        "ratio": 1.1599161488358165
+        "self_total": 1.6488000000000003,
+        "opp_total": 1.4355000000000002,
+        "ratio": 1.14858934169279
     },
     "Striker": {
         "AlwaysCooperate": {
@@ -576,8 +604,8 @@
             "other": 1.008
         },
         "Random": {
-            "self": 2.042,
-            "other": 0.488
+            "self": 2.01,
+            "other": 0.522
         },
         "TitForTwoTats": {
             "self": 2,
@@ -604,16 +632,20 @@
             "other": 2
         },
         "ZDExtortion": {
-            "self": 1.02,
-            "other": 1.02
+            "self": 1.008,
+            "other": 1.014
         },
         "OmegaTitForTat": {
             "self": 2,
             "other": 2
         },
-        "self_total": 1.634421052631579,
-        "opp_total": 1.3985263157894736,
-        "ratio": 1.1686737919614634
+        "UltraTitForTat": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "self_total": 1.6503999999999999,
+        "opp_total": 1.4299000000000002,
+        "ratio": 1.1542065878732777
     },
     "TolerantStriker": {
         "AlwaysCooperate": {
@@ -653,8 +685,8 @@
             "other": 2.002
         },
         "Random": {
-            "self": 2.026,
-            "other": 0.514
+            "self": 2,
+            "other": 0.53
         },
         "TitForTwoTats": {
             "self": 2,
@@ -681,16 +713,20 @@
             "other": 2
         },
         "ZDExtortion": {
-            "self": 1.066,
-            "other": 1.084
+            "self": 1.094,
+            "other": 1.106
         },
         "OmegaTitForTat": {
             "self": 2,
             "other": 2
         },
-        "self_total": 1.7381052631578948,
-        "opp_total": 1.5110526315789472,
-        "ratio": 1.1502612330198538
+        "UltraTitForTat": {
+            "self": 1.026,
+            "other": 1.056
+        },
+        "self_total": 1.7026,
+        "opp_total": 1.4902000000000002,
+        "ratio": 1.1425312038652529
     },
     "SuspiciousStriker": {
         "AlwaysCooperate": {
@@ -714,12 +750,12 @@
             "other": 0.02
         },
         "Trigger": {
-            "self": 1.012,
-            "other": 1.006
+            "self": 1.002,
+            "other": 1.002
         },
         "SuddenTrigger": {
-            "self": 1.004,
-            "other": 1.004
+            "self": 1.012,
+            "other": 1.006
         },
         "Striker": {
             "self": 1.008,
@@ -730,16 +766,16 @@
             "other": 1.996
         },
         "Random": {
-            "self": 1.928,
-            "other": 0.542
+            "self": 1.916,
+            "other": 0.554
         },
         "TitForTwoTats": {
             "self": 2.002,
             "other": 1.996
         },
         "GenerousTitForTat": {
-            "self": 2,
-            "other": 1.994
+            "self": 1.404,
+            "other": 0.81
         },
         "Pavlov": {
             "self": 1.002,
@@ -758,93 +794,101 @@
             "other": 1.996
         },
         "ZDExtortion": {
-            "self": 1.052,
-            "other": 1.04
+            "self": 1.002,
+            "other": 1.002
         },
         "OmegaTitForTat": {
             "self": 1.998,
             "other": 1.992
         },
-        "self_total": 1.4741052631578946,
-        "opp_total": 1.242,
-        "ratio": 1.186880244088482
+        "UltraTitForTat": {
+            "self": 1.996,
+            "other": 1.99
+        },
+        "self_total": 1.4671999999999996,
+        "opp_total": 1.2188,
+        "ratio": 1.2038070233016078
     },
     "Random": {
         "AlwaysCooperate": {
-            "self": 2.49,
-            "other": 1.02
+            "self": 2.488,
+            "other": 1.024
         },
         "AlwaysDefect": {
-            "self": 0.514,
-            "other": 1.972
+            "self": 0.492,
+            "other": 2.016
         },
         "TitForTat": {
-            "self": 1.508,
-            "other": 1.502
+            "self": 1.502,
+            "other": 1.496
         },
         "suspiciousTitForTat": {
-            "self": 1.478,
-            "other": 1.478
+            "self": 1.508,
+            "other": 1.508
         },
         "AcyclicTitForTat": {
-            "self": 1.412,
-            "other": 1.592
+            "self": 1.524,
+            "other": 1.476
         },
         "Trigger": {
-            "self": 1.512,
-            "other": 1.506
+            "self": 0.496,
+            "other": 2.02
         },
         "SuddenTrigger": {
-            "self": 0.576,
-            "other": 1.926
+            "self": 0.54,
+            "other": 1.962
         },
         "Striker": {
-            "self": 0.488,
-            "other": 2.042
+            "self": 0.522,
+            "other": 2.01
         },
         "TolerantStriker": {
-            "self": 0.514,
-            "other": 2.026
+            "self": 0.53,
+            "other": 2
         },
         "SuspiciousStriker": {
-            "self": 0.542,
-            "other": 1.928
+            "self": 0.554,
+            "other": 1.916
         },
         "TitForTwoTats": {
-            "self": 1.928,
-            "other": 1.244
+            "self": 2.016,
+            "other": 1.308
         },
         "GenerousTitForTat": {
-            "self": 1.68,
-            "other": 1.404
+            "self": 1.674,
+            "other": 1.41
         },
         "Pavlov": {
-            "self": 0.524,
-            "other": 1.958
+            "self": 0.496,
+            "other": 2.014
         },
         "Prober": {
-            "self": 0.546,
-            "other": 1.926
+            "self": 0.484,
+            "other": 2.05
         },
         "GradualTitForTat": {
-            "self": 0.896,
-            "other": 1.736
+            "self": 0.83,
+            "other": 1.802
         },
         "GradualPavlov": {
-            "self": 2.494,
-            "other": 1.012
+            "self": 2.516,
+            "other": 0.968
         },
         "ZDExtortion": {
-            "self": 1.266,
-            "other": 1.602
+            "self": 1.318,
+            "other": 1.576
         },
         "OmegaTitForTat": {
-            "self": 0.516,
-            "other": 1.986
+            "self": 0.544,
+            "other": 1.942
         },
-        "self_total": 1.0991578947368421,
-        "opp_total": 1.571578947368421,
-        "ratio": 0.6993971868720696
+        "UltraTitForTat": {
+            "self": 0.518,
+            "other": 2.036
+        },
+        "self_total": 1.0276,
+        "opp_total": 1.6267,
+        "ratio": 0.6317083666318314
     },
     "TitForTwoTats": {
         "AlwaysCooperate": {
@@ -888,8 +932,8 @@
             "other": 2.002
         },
         "Random": {
-            "self": 1.244,
-            "other": 1.928
+            "self": 1.308,
+            "other": 2.016
         },
         "GenerousTitForTat": {
             "self": 2,
@@ -912,16 +956,20 @@
             "other": 2
         },
         "ZDExtortion": {
-            "self": 1.128,
-            "other": 1.182
+            "self": 1.024,
+            "other": 1.048
         },
         "OmegaTitForTat": {
             "self": 2,
             "other": 2
         },
-        "self_total": 1.6082105263157895,
-        "opp_total": 1.6817894736842105,
-        "ratio": 0.9562496088126682
+        "UltraTitForTat": {
+            "self": 1.03,
+            "other": 2.482
+        },
+        "self_total": 1.5773000000000001,
+        "opp_total": 1.7195,
+        "ratio": 0.917301541145682
     },
     "GenerousTitForTat": {
         "AlwaysCooperate": {
@@ -937,12 +985,12 @@
             "other": 2
         },
         "suspiciousTitForTat": {
-            "self": 1.978,
-            "other": 1.984
+            "self": 1.994,
+            "other": 2
         },
         "AcyclicTitForTat": {
-            "self": 1.354,
-            "other": 1.648
+            "self": 1.342,
+            "other": 1.66
         },
         "Trigger": {
             "self": 2,
@@ -961,12 +1009,12 @@
             "other": 2
         },
         "SuspiciousStriker": {
-            "self": 1.994,
-            "other": 2
+            "self": 0.81,
+            "other": 1.404
         },
         "Random": {
-            "self": 1.404,
-            "other": 1.68
+            "self": 1.41,
+            "other": 1.674
         },
         "TitForTwoTats": {
             "self": 2,
@@ -977,8 +1025,8 @@
             "other": 1.402
         },
         "Prober": {
-            "self": 0.804,
-            "other": 1.41
+            "self": 0.794,
+            "other": 1.43
         },
         "GradualTitForTat": {
             "self": 2,
@@ -989,16 +1037,20 @@
             "other": 2
         },
         "ZDExtortion": {
-            "self": 1.216,
-            "other": 1.54
+            "self": 1.304,
+            "other": 1.658
         },
         "OmegaTitForTat": {
             "self": 2,
             "other": 2
         },
-        "self_total": 1.5986315789473684,
-        "opp_total": 1.7378947368421052,
-        "ratio": 0.9198667474258027
+        "UltraTitForTat": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "self_total": 1.5638,
+        "opp_total": 1.7291,
+        "ratio": 0.9044011335376785
     },
     "Pavlov": {
         "AlwaysCooperate": {
@@ -1042,8 +1094,8 @@
             "other": 1.002
         },
         "Random": {
-            "self": 1.958,
-            "other": 0.524
+            "self": 2.014,
+            "other": 0.496
         },
         "TitForTwoTats": {
             "self": 1.01,
@@ -1073,9 +1125,13 @@
             "self": 1.006,
             "other": 1
         },
-        "self_total": 1.3511578947368426,
-        "opp_total": 0.7483157894736842,
-        "ratio": 1.8055985370656922
+        "UltraTitForTat": {
+            "self": 1.006,
+            "other": 1
+        },
+        "self_total": 1.3367000000000004,
+        "opp_total": 0.7594999999999998,
+        "ratio": 1.7599736668861101
     },
     "Prober": {
         "AlwaysCooperate": {
@@ -1099,8 +1155,8 @@
             "other": 0.016
         },
         "Trigger": {
-            "self": 1.01,
-            "other": 1.004
+            "self": 1.002,
+            "other": 1.008
         },
         "SuddenTrigger": {
             "self": 1.01,
@@ -1119,16 +1175,16 @@
             "other": 1.006
         },
         "Random": {
-            "self": 1.926,
-            "other": 0.546
+            "self": 2.05,
+            "other": 0.484
         },
         "TitForTwoTats": {
             "self": 1.018,
             "other": 1
         },
         "GenerousTitForTat": {
-            "self": 1.41,
-            "other": 0.804
+            "self": 1.43,
+            "other": 0.794
         },
         "Pavlov": {
             "self": 0.998,
@@ -1143,16 +1199,20 @@
             "other": 0.012
         },
         "ZDExtortion": {
-            "self": 0.998,
-            "other": 1.01
+            "self": 1.014,
+            "other": 1.002
         },
         "OmegaTitForTat": {
             "self": 1.01,
             "other": 1.004
         },
-        "self_total": 1.3496842105263158,
-        "opp_total": 0.7547368421052632,
-        "ratio": 1.788284518828452
+        "UltraTitForTat": {
+            "self": 1.018,
+            "other": 1
+        },
+        "self_total": 1.3407000000000002,
+        "opp_total": 0.7632000000000001,
+        "ratio": 1.7566823899371071
     },
     "GradualTitForTat": {
         "AlwaysCooperate": {
@@ -1196,8 +1256,8 @@
             "other": 2
         },
         "Random": {
-            "self": 1.736,
-            "other": 0.896
+            "self": 1.802,
+            "other": 0.83
         },
         "TitForTwoTats": {
             "self": 2,
@@ -1220,16 +1280,20 @@
             "other": 2
         },
         "ZDExtortion": {
-            "self": 1.194,
-            "other": 1.368
+            "self": 1.158,
+            "other": 1.35
         },
         "OmegaTitForTat": {
             "self": 2,
             "other": 2
         },
-        "self_total": 1.6953684210526319,
-        "opp_total": 1.5968421052631578,
-        "ratio": 1.0617007251153594
+        "UltraTitForTat": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "self_total": 1.7120000000000002,
+        "opp_total": 1.6126999999999998,
+        "ratio": 1.0615737582935452
     },
     "GradualPavlov": {
         "AlwaysCooperate": {
@@ -1273,8 +1337,8 @@
             "other": 2.002
         },
         "Random": {
-            "self": 1.012,
-            "other": 2.494
+            "self": 0.968,
+            "other": 2.516
         },
         "TitForTwoTats": {
             "self": 2,
@@ -1297,93 +1361,101 @@
             "other": 2
         },
         "ZDExtortion": {
-            "self": 1.64,
-            "other": 2.18
+            "self": 1.608,
+            "other": 2.196
         },
         "OmegaTitForTat": {
             "self": 2,
             "other": 2
         },
-        "self_total": 1.4035789473684213,
-        "opp_total": 2.140315789473684,
-        "ratio": 0.6557812423154479
+        "UltraTitForTat": {
+            "self": 0.072,
+            "other": 2.964
+        },
+        "self_total": 1.3332000000000002,
+        "opp_total": 2.1834,
+        "ratio": 0.6106073097004672
     },
     "ZDExtortion": {
         "AlwaysCooperate": {
-            "self": 2.188,
-            "other": 1.624
+            "self": 2.212,
+            "other": 1.576
         },
         "AlwaysDefect": {
             "self": 0.998,
             "other": 1.004
         },
         "TitForTat": {
-            "self": 1.022,
-            "other": 1.016
+            "self": 1.03,
+            "other": 1.024
         },
         "suspiciousTitForTat": {
-            "self": 1.016,
-            "other": 1.016
+            "self": 1.012,
+            "other": 1.012
         },
         "AcyclicTitForTat": {
-            "self": 1.622,
-            "other": 1.382
+            "self": 1.672,
+            "other": 1.33
         },
         "Trigger": {
-            "self": 1.008,
-            "other": 1.002
+            "self": 1.032,
+            "other": 1.032
         },
         "SuddenTrigger": {
+            "self": 1.048,
+            "other": 1.042
+        },
+        "Striker": {
             "self": 1.014,
             "other": 1.008
         },
-        "Striker": {
-            "self": 1.02,
-            "other": 1.02
-        },
         "TolerantStriker": {
-            "self": 1.084,
-            "other": 1.066
+            "self": 1.106,
+            "other": 1.094
         },
         "SuspiciousStriker": {
-            "self": 1.04,
-            "other": 1.052
+            "self": 1.002,
+            "other": 1.002
         },
         "Random": {
-            "self": 1.602,
-            "other": 1.266
+            "self": 1.576,
+            "other": 1.318
         },
         "TitForTwoTats": {
-            "self": 1.182,
-            "other": 1.128
+            "self": 1.048,
+            "other": 1.024
         },
         "GenerousTitForTat": {
-            "self": 1.54,
-            "other": 1.216
+            "self": 1.658,
+            "other": 1.304
         },
         "Pavlov": {
             "self": 1,
             "other": 1.006
         },
         "Prober": {
-            "self": 1.01,
-            "other": 0.998
+            "self": 1.002,
+            "other": 1.014
         },
         "GradualTitForTat": {
-            "self": 1.368,
-            "other": 1.194
+            "self": 1.35,
+            "other": 1.158
         },
         "GradualPavlov": {
-            "self": 2.18,
-            "other": 1.64
+            "self": 2.196,
+            "other": 1.608
         },
         "OmegaTitForTat": {
-            "self": 1.034,
-            "other": 1.022
+            "self": 1.026,
+            "other": 1.014
         },
-        "self_total": 1.206736842105263,
-        "opp_total": 1.0873684210526313,
-        "ratio": 1.109777347531462
+        "UltraTitForTat": {
+            "self": 1.04,
+            "other": 1.028
+        },
+        "self_total": 1.2011,
+        "opp_total": 1.0798999999999999,
+        "ratio": 1.1122326141309382
     },
     "OmegaTitForTat": {
         "AlwaysCooperate": {
@@ -1427,8 +1499,8 @@
             "other": 1.998
         },
         "Random": {
-            "self": 1.986,
-            "other": 0.516
+            "self": 1.942,
+            "other": 0.544
         },
         "TitForTwoTats": {
             "self": 2,
@@ -1455,11 +1527,96 @@
             "other": 2
         },
         "ZDExtortion": {
-            "self": 1.022,
-            "other": 1.034
+            "self": 1.014,
+            "other": 1.026
         },
-        "self_total": 1.7338947368421054,
-        "opp_total": 1.5062105263157894,
-        "ratio": 1.1511636033265777
+        "UltraTitForTat": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "self_total": 1.7445,
+        "opp_total": 1.5318,
+        "ratio": 1.1388562475518997
+    },
+    "UltraTitForTat": {
+        "AlwaysCooperate": {
+            "self": 2.962,
+            "other": 0.076
+        },
+        "AlwaysDefect": {
+            "self": 0.998,
+            "other": 1.004
+        },
+        "TitForTat": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "suspiciousTitForTat": {
+            "self": 1.99,
+            "other": 1.996
+        },
+        "AcyclicTitForTat": {
+            "self": 2.95,
+            "other": 0.052
+        },
+        "Trigger": {
+            "self": 1.024,
+            "other": 1.036
+        },
+        "SuddenTrigger": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "Striker": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "TolerantStriker": {
+            "self": 1.056,
+            "other": 1.026
+        },
+        "SuspiciousStriker": {
+            "self": 1.99,
+            "other": 1.996
+        },
+        "Random": {
+            "self": 2.036,
+            "other": 0.518
+        },
+        "TitForTwoTats": {
+            "self": 2.482,
+            "other": 1.03
+        },
+        "GenerousTitForTat": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "Pavlov": {
+            "self": 1,
+            "other": 1.006
+        },
+        "Prober": {
+            "self": 1,
+            "other": 1.018
+        },
+        "GradualTitForTat": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "GradualPavlov": {
+            "self": 2.964,
+            "other": 0.072
+        },
+        "ZDExtortion": {
+            "self": 1.028,
+            "other": 1.04
+        },
+        "OmegaTitForTat": {
+            "self": 1.998,
+            "other": 1.998
+        },
+        "self_total": 1.7733999999999999,
+        "opp_total": 1.1929,
+        "ratio": 1.486629222902171
     }
 }

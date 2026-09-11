@@ -1,6 +1,6 @@
-/* SuspiciousTitForTat
-Builds on TitForTat
-Defects on the first round
+/* SuspiciousTitForTat.
+Builds on TitForTat.
+Defects on the first round.
 */
 
 export default function bot({ history }) {

@@ -1,7 +1,7 @@
-/* ZDExtortion
-Calculates cooperation probabilities for every possible last round result
-Uses equations that enforce a positive linear relationship between the its and the opponent's points
-Makes cooperation the mathematically best option
+/* ZDExtortion (Credit: Press, Dyson).
+Calculates cooperation probabilities for every possible last round result.
+Uses equations that enforce a positive linear relationship between the its and the opponent's points.
+Makes cooperation the mathematically best option.
 */
 
 

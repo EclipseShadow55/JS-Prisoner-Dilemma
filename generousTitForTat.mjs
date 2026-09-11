@@ -1,6 +1,6 @@
-/* GenerousTitForTat
-Builds on TitForTat
-Has a chance to unconditionally cooperate each turn
+/* GenerousTitForTat.
+Builds on TitForTat.
+Has a chance to unconditionally cooperate each turn.
 */
 
 const CHANCE_COOPERATE = 0.8

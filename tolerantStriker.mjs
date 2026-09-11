@@ -1,14 +1,16 @@
-/* TolerantStriker
-Builds on Striker
-Cooperates while strikes remain
+/* TolerantStriker.
+Builds on Striker.
+Cooperates while strikes remain.
 */
+
+const STRIKES = 3;
 
 export default function bot({ history, memory }) {
     if (history.length === 0) {
-        return ["C", 0];
+        return ["C", STRIKES];
     }
 
-    if (memory < -3) {
+    if (memory < 0) {
         return ["D", memory];
     } else if (history.at(-1).opponent === "D") {
         return ["C", memory - 1];

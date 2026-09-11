@@ -1,5 +1,5 @@
-/* AlwaysCooperate
-Cooperates unconditionally
+/* AlwaysCooperate.
+Cooperates unconditionally.
 */
 
 export default function bot() {

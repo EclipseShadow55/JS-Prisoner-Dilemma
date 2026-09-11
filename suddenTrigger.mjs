@@ -1,6 +1,6 @@
-/* SuddenTrigger
-Builds on Trigger
-On opponent defection, retaliates and has a chance to trigger, switching to AlwaysDefect
+/* SuddenTrigger.
+Builds on Trigger.
+On opponent defection, retaliates and has a chance to trigger, switching to AlwaysDefect.
 */
 
 const TRIGGER_CHANCE = 0.1

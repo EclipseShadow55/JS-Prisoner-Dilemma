@@ -1,6 +1,6 @@
-/* SuspiciousStriker
-Builds on Striker
-Defects on the first round
+/* SuspiciousStriker.
+Builds on Striker.
+Defects on the first round.
 */
 
 const STRIKES = 3;

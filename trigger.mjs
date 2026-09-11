@@ -1,6 +1,6 @@
-/* Trigger
-Cooperates until defected against, then plays AlwaysDefect
- */
+/* Trigger.
+Cooperates until defected against, then plays AlwaysDefect.
+*/
 
 export default function bot({ history, memory }) {
     if (history.length === 0) {
@@ -8,7 +8,7 @@ export default function bot({ history, memory }) {
     }
 
     if (memory || history.at(-1).opponent === "D") {
-        return ["D", memory];
+        return ["D", true];
     } else {
         return ["C", false];
     }

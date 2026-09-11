@@ -1,7 +1,7 @@
-/* OmegaTitForTat (Credit: Slany, Kienreich)
-Builds on TitForTat
-Maintains a randomness score, and when it exceeds a threshold switches to an AlwaysDefect strategy
-Maintains a deadlock score, and when it exceeds a threshold cooperates for one turn and resets the deadlock score
+/* OmegaTitForTat (Credit: Slany, Kienreich).
+Builds on TitForTat.
+Maintains a randomness score, and when it exceeds a threshold switches to an AlwaysDefect strategy.
+Maintains a deadlock score, and when it exceeds a threshold cooperates for one turn and resets the deadlock score.
 */
 
 const RANDOM_THRESHOLD = 10;

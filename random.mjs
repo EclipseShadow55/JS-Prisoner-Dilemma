@@ -1,5 +1,5 @@
-/* Random
-Randomly choses between cooperating and defecting
+/* Random.
+Randomly choses between cooperating and defecting.
 */
 
 const CHANCE_COOPERATE = 0.5
